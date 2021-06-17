@@ -10,7 +10,7 @@ _29 group JS home work
 
 This project is for educational porpuses only.
 
-Site published at https://vadimsharanov.github.io/4-namu-darbai-3/
+Site published at https://vadimsharanov.github.io/5-namu-darbai-4/
 
 
 "Javascript Masyvai ir Funkcijos"
